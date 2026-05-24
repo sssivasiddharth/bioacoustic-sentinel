@@ -26,11 +26,11 @@ A real-time, networked bioacoustic monitoring system. A field sensor captures li
 
 **Sensor Output (Bioacoustic Monitor):**
 
-![Sensor output](screenshots/sensor_output.png)
+![Sensor output](Screenshots/sensor_output.png)
 
 **Receiver Output (Control Room):**
 
-![Receiver output](screenshots/receiver_output.png)
+![Receiver output](Screenshots/receiver_output.png)
 
 ## Problems Encountered and Resolved
 
