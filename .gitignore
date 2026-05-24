@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+env/
+
+# Temporary audio files
+chunk.wav
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs (except sample output)
+alerts.log
+detection_log_*.csv
+!sample_output.csv
+
+# System files
+Thumbs.db
+.DS_Store
